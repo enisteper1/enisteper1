@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on **Data Science**, **Machine Learning** and **SQL**.
-- 🌱 I’m currently learning **Exploratory Data Analysis** 
+- 🌱 I’m currently focusing **Recommendation Engines** 
 - 💬 Ask me about **Artificial Intelligence**, **Data Analysis** and **Computer Vision**
 - 📫 How to reach me: enisteper@gmail.com
 
